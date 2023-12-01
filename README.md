@@ -1,5 +1,4 @@
 # FIWOO k8s templates
-
 ## Prequisistes
 
 - Install _kubeckt_
